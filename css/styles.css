@@ -9870,6 +9870,8 @@ a.text-dark:hover, a.text-dark:focus {
 
 .text-muted {
   color: #000000 !important;
+  background-color:#cbd3da;
+  background-color:rgba(0,0,0,0.2)
 }
 
 .text-black-50 {
@@ -10509,4 +10511,9 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 #services{
   background-image:url("https://i.imgur.com/eEj236l.jpg")
+}
+h4.my-3{
+  font-color:#FED136;
+  background-color:#cbd3da;
+  background-color:rgba(0,0,0,0.2)
 }
